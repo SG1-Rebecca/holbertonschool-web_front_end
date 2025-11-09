@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node
 
 const VALUE_ARGS = process.argv[2];
 
